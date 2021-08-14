@@ -1,0 +1,6 @@
+{
+	"appId": "com.apparentvisuals.traininggrid",
+	"appName": "Training Grid",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
